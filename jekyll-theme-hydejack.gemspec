@@ -1,4 +1,5 @@
 # coding: utf-8
+gem 'jekyll-include-cache'
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-hydejack"
